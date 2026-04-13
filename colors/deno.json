@@ -1,0 +1,9 @@
+{
+  "name": "@openx/colors",
+  "version": "0.1.0",
+  "description": "A bunch of color classes that allows you to do type-safe color interactions.",
+  "license": "Apache-2.0",
+  "exports": {
+    ".": "./src/mod.ts"
+  }
+}
