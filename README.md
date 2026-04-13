@@ -1,9 +1,9 @@
-# openx: The Open Foundation for JavaScript Development
+# OpenX-Js: The Open Foundation for JavaScript Development
 
-`openx` is a collection of high-quality, lightweight, and free open-source
+`openx-js` is a collection of high-quality, lightweight, and free open-source
 libraries designed to be the foundation for building any application using
 JavaScript. Whether you are building for the browser, Node.js, Deno, or Edge
-environments, `openx` provides the essential building blocks you need to move
+environments, `openx-js` provides the essential building blocks you need to move
 fast without reinventing the wheel.
 
 ## My Mission
@@ -11,8 +11,9 @@ fast without reinventing the wheel.
 My goal is simple: <b>Provide a suite of foundational tools that are free for
 anyone to use, modify, and build upon.</b>
 
-I believe that the best software is built on a solid, open foundation. `openx`
-aims to provide that foundation by offering a curated set of libraries that are:
+I believe that the best software is built on a solid, open foundation.
+`openx-js` aims to provide that foundation by offering a curated set of
+libraries that are:
 
 - **Free & Open**: Permissive licensing for everyone, from hobbyists to
   enterprises.
